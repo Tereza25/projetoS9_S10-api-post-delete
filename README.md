@@ -1,4 +1,4 @@
- # projeto_Semana 9 e 10 -api-post-delete
+ # projeto_Semana 9-api-post-delete e semana 10-PUT + PATCH
 
 ## Exercícios - semana 9
 
@@ -24,4 +24,17 @@ Funcionários: adicionar campos que julgar necessários
 
 8 - A livaria gostaria de ter acesso a idade de um funcionário, de acordo com seu id.
 
-### Observação: Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.
+Observação: Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.
+
+
+## Exercícios - semana 10 
+
+### Continuidade do projeto da livraria.
+
+1 - Para os livros, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PUT.
+
+2 - Para os livros, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PATCH.
+
+3 - Para os funcionários, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PUT.
+
+4 - Para os funcionários, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PATCH.
